@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Rust        25 hrs 1 min    █████████████████████▒░░░   85.64 % 
-Markdown    1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-TOML        1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-GraphQL     1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-RMarkdown   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Rust       20 hrs 14 mins  ███████████████████░░░░░░   76.06 % 
+C          2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Markdown   1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+TOML       1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+GraphQL    1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 <!--END_SECTION:waka-->
