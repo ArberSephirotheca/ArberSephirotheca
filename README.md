@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Total: 11 hrs 55 mins
+Total: 13 hrs 43 mins
 
-Rust       5 hrs 41 mins   ████████████░░░░░░░░░░░░░   47.63 % 
-C          3 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.02 % 
-GraphQL    1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Markdown   1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-TOML       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Rust       6 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   46.00 % 
+GraphQL    3 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+C          3 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+Markdown   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Makefile   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 <!--END_SECTION:waka-->
