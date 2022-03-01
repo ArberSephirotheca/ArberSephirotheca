@@ -12,10 +12,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust       17 hrs 52 mins  ██████████████████▒░░░░░░   73.46 %
-C          3 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-GraphQL    2 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-Other      26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Rust         14 hrs 58 mins  ███████████████░░░░░░░░░░   60.05 %
+C            3 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+GraphQL      2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+YAML         1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Bash         1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+TOML         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
