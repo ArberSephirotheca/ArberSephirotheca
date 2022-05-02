@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust         12 hrs 48 mins  ███████████████▒░░░░░░░░░   61.55 %
-HTML         2 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-Markdown     1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Python       1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-GraphQL      1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Other        56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Rust         6 hrs 10 mins   █████████████░░░░░░░░░░░░   51.70 %
+Markdown     1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
+Python       1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+HTML         53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Other        52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
 ```
 
 <!--END_SECTION:waka-->
