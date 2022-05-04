@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 hr 46 mins    ██████████▓░░░░░░░░░░░░░░   42.33 %
-Rust       1 hr 45 mins    ██████████▓░░░░░░░░░░░░░░   42.09 %
-Other      31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+Rust      38 mins         ██████████████████████▒░░   89.03 %
+HTML      3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+GraphQL   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
