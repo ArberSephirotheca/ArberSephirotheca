@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust      38 mins         ██████████████████████▒░░   89.03 %
-HTML      3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-GraphQL   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
