@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-YAML       18 mins         █████████████▓░░░░░░░░░░░   54.43 %
-Markdown   13 mins         █████████▓░░░░░░░░░░░░░░░   38.92 %
-Makefile   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+YAML       18 mins         ███████████▓░░░░░░░░░░░░░   46.23 %
+Markdown   13 mins         ████████▒░░░░░░░░░░░░░░░░   33.05 %
+Go         5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Makefile   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Rust       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
