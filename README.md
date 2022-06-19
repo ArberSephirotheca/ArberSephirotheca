@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust       24 mins         █████████████▒░░░░░░░░░░░   53.59 %
+Markdown   10 mins         ██████░░░░░░░░░░░░░░░░░░░   23.35 %
+TOML       10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.88 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
