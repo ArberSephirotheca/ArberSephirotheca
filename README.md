@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go           7 hrs 20 mins   ███████████████████████▒░   93.84 %
-Git          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Makefile     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go           11 hrs 36 mins  ███████████████████████░░   92.56 %
+Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
