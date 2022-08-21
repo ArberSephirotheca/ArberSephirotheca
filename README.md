@@ -4,8 +4,8 @@
 - My interested area is Distributed System and Storage.
 - I want to learn more about Operating system and Compiler.
 - My most used programming language is Go.
-- 🌱 I’m currently learning Rust, Distributed System, and Database.
-- 😄 Pronouns: He/Him
+- I’m currently learning Rust.
+- Pronouns: He/Him
 
 
 <!--START_SECTION:waka-->
