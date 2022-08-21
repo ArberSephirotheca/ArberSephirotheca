@@ -1,7 +1,7 @@
 ### zzz💤
 
 
-**ArberSephirotheca/ArberSephirotheca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+//**ArberSephirotheca/ArberSephirotheca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - I am currently an CSE graduate student at UCSC. I recently graduate from RPI (Rensselaer Polytechnic Insititute) with a Bachelor degree.
