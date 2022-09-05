@@ -17,3 +17,5 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/Arber_Sephirotheca#8168)](https://discord.com/users/Arber_Sephirotheca#8168)
